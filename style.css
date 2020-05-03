@@ -1,0 +1,25 @@
+#container {
+  background: #333;
+  color: #fff;
+  font-family: Arial, Helvetica, sans-serif;
+  width: 960px;
+  margin: 30px auto;
+  padding: 5px;
+
+}
+
+body{
+  background: #555;
+}
+.listLinks {
+  list-style-type: none;
+}
+ul{
+  padding: 0px;
+}
+a{
+  color: #ffe
+}
+nav{
+
+}
